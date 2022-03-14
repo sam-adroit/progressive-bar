@@ -1,0 +1,21 @@
+.outer-circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-circle {
+  width: 90px;
+  height: 90px;
+  background-color: #454c50;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #20e734;
+  font-size: 20px;
+  font-weight: 600;
+}
